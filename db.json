@@ -1,0 +1,77 @@
+{
+  "user": [
+    {
+      "id": "1lJGRT63BH3qBFxXZNf6t",
+      "fname": "Drashti",
+      "lname": "Bilimoria",
+      "email": "drashti@gmail.com",
+      "password": "drashti@123",
+      "department": "Full Stack Developer",
+      "salary": "25000",
+      "role": "employee"
+    },
+    {
+      "id": "12sjQ41h4Bt-4-SB34a5m",
+      "fname": "Isha",
+      "lname": "Patel",
+      "email": "isha@gmail.com",
+      "password": "isha@123",
+      "department": "Designer",
+      "salary": "30000",
+      "role": "employee"
+    },
+    {
+      "id": "3zMoeRY0PZbcEHcTraCMH",
+      "fname": "Riya",
+      "lname": "Tandel",
+      "email": "riya@gmail.com",
+      "password": "riya@123",
+      "department": "Fronted Developer",
+      "salary": "15000",
+      "role": "employee"
+    },
+    {
+      "id": "oVoc27UcdMItHsYw47c3c",
+      "fname": "Jiya",
+      "lname": "Patel",
+      "email": "jiya@gmail.com",
+      "password": "jiya@123",
+      "department": "Backend Developer",
+      "salary": "20000",
+      "role": "employee"
+    },
+    {
+      "id": "Za80-JYW2kLXHSvnRvNUB",
+      "fname": "Krina",
+      "lname": "Tandel",
+      "email": "krina@gmail.com",
+      "password": "krina@123",
+      "department": "UI/UX Designer",
+      "salary": "15000",
+      "role": "employee"
+    }
+  ],
+  "task": [
+    {
+      "id": "ef63",
+      "user": "Isha Patel",
+      "name": "Typography"
+    },
+    {
+      "id": "b53e",
+      "user": "Riya Tandel",
+      "name": "React To-Do Task"
+    },
+    {
+      "id": "f78e",
+      "user": "Krina Tandel",
+      "name": "Typography"
+    },
+    {
+      "id": "c629",
+      "user": "Jiya Patel",
+      "name": "Node Js Crud"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
