@@ -19,13 +19,13 @@ src/
 ```
 
 ## Dashboard
-![alt text](image.png)
+<img width="1917" height="840" alt="image" src="https://github.com/user-attachments/assets/cd33a325-4042-405b-bb2f-20f5ca352895" />
 
 ## Employee
-![alt text](image-1.png)
+<img width="1450" height="523" alt="image" src="https://github.com/user-attachments/assets/593873ca-23a1-4ecd-969d-d7c412e0096b" />
 
 ## Task
-![alt text](image-2.png)
+<img width="884" height="409" alt="image" src="https://github.com/user-attachments/assets/e9f4684a-32e1-4a83-a40d-59b97dba9140" />
 
 ## 🚀 Features
 - Redux Toolkit state management
